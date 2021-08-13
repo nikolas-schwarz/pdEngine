@@ -1,2 +1,2 @@
 # muEngine
-Micro Engine for learning some game engine programming.
+The µEngine is a small game engine for learning purpose as part of my "How to build X" Collection.
