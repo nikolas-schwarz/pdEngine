@@ -1,4 +1,4 @@
-# pdEngine (/ˈpdeengyn/)
+# pdEngine (/ˈpedeengyn/)
 The pdEngine is a small web game engine for learning purpose as part of my "How to build X" Collection.
 
 ## Why Pd?
